@@ -1,0 +1,1 @@
+echo lamp is installed

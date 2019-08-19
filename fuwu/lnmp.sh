@@ -1,0 +1,1 @@
+echo lnmp is installed
